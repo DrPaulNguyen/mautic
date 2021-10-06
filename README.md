@@ -2,6 +2,11 @@
 
 ## Preparation
 
+### Configuration
+
+* **Admin user**: `admin`
+* **Admin password**: `hybrid2021`
+
 ### Pack
 
 Goto working folder which encloses the data folder of the container. There are several steps:
