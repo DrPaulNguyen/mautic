@@ -21,3 +21,5 @@ Goto working folder which encloses the data folder of the container. There are s
 ## Version 3.3.4
 * app folder w/o vendor
 * vendor
+
+Copyright Hybrid Solutions
